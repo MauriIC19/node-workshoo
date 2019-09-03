@@ -1,0 +1,1 @@
+console.log("Welcome to the NodeJS course, explore the folders in order to get a better knowledge of how node works as a server-side JavaScript environment");
