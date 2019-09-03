@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "sessionOne": "node ./Session_1_Javascripting/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +23,6 @@
   "bugs": {
     "url": "https://github.com/MauriIC19/node-workshop/issues"
   },
-  "homepage": "https://github.com/MauriIC19/node-workshop#readme"
+  "homepage": "https://github.com/MauriIC19/node-workshop#readme",
+  "dependencies": {}
 }
