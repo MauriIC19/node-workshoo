@@ -4,8 +4,9 @@
   "description": "The node workshop material made by Mauricio IC",
   "main": "index.js",
   "scripts": {
+    "1": "node ./exercice_1_javascripting/index.js",
     "start": "node index.js",
-    "sessionOne": "node ./Session_1_Javascripting/index.js",
+    "n": "nodemon ./exercise_n_express/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -24,5 +25,8 @@
     "url": "https://github.com/MauriIC19/node-workshop/issues"
   },
   "homepage": "https://github.com/MauriIC19/node-workshop#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.2"
+  }
 }
